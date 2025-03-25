@@ -3,5 +3,5 @@
 
 ## Loader
  ```bash
-loadstring(game:HttpGet("https://pastebin.com/gFKuvuBi"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/gFKuvuBi"))()
 ```
