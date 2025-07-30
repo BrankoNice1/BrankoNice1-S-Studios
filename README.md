@@ -6,7 +6,7 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/gFKuvuBi"))()
 ```
 # How do i import my ads to your hub?
-Go to my discord server and go to #sumbit-ad
+Go to my discord server https://discord.gg/6VG7wEe3Pa and go to #sumbit-ad
 and tell *ur link of webm video* and *the text what people wanna copy to clipboard*
 # is it free?
 ye
